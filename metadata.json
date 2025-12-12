@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster AI Team",
+  "description": "A team of autonomous Data Science Grandmaster agents that collaborate to solve your machine learning problems and export the solution as a Jupyter Notebook.",
+  "requestFramePermissions": []
+}
